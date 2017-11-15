@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ShapeLoading.iml" filepath="$PROJECT_DIR$/ShapeLoading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shapeLoading/app.iml" filepath="$PROJECT_DIR$/shapeLoading/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-loading/library-loading.iml" filepath="$PROJECT_DIR$/library-loading/library-loading.iml" />
     </modules>
   </component>
 </project>
